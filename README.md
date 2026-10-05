@@ -26,7 +26,7 @@ Outside of tech, I am a competitive tennis player and an active researcher on te
 ### 🌍 Beyond Code
 
 * **Academic Research:** Authored a comprehensive university research paper titled *"Dual Use of Drone Technology in Ukraine"*, exploring the historical evolution, civilian agricultural adaptations, tactical military applications, and ethical frameworks of Unmanned Aerial Vehicles (UAVs)[cite: 2].
-* **Athletics:** Competitive national and international tennis player and former tennis coach, bringing the discipline, focus, and resilience of high-performance sports into software architecture and data modeling.
+* **Athletics:** Competitive national and international tennis player and tennis coach, bringing the discipline, focus, and resilience of high-performance sports into software architecture and data modeling.
 * **Continuous Learning:** Regularly attending international tech conferences, engaging in engineering challenges, and exploring modern intersections of cloud infrastructure and AI.
 
 ---
